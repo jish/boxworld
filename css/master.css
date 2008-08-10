@@ -1,0 +1,31 @@
+body {
+  background: #6bf;
+  font-family: Arial, sans-serif;
+  font-size: .8em;
+  letter-spacing: 1px;
+}
+
+#container {
+  margin: auto;
+  width: 500px;
+}
+
+#container h1 {
+  font-size: 2em;
+  letter-spacing: 3px;
+}
+
+#container h1 span {
+  color: #d00;
+}
+
+#container #game {
+  border: 3px solid #fff;
+  height: 400px;
+}
+
+#container #footer {
+  margin: 10px;
+  padding: 0;
+  text-align: center;
+}
